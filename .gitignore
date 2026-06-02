@@ -1,0 +1,9 @@
+# 环境变量（包含 API Key，绝对不能上传）
+.env
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# Trae 本地配置（可选）
+.trae/
